@@ -9,4 +9,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps.
 - 💬 Ask me about React, Next, JavaScript, TypeScript.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zerk-shaban/), [Xing](https://www.xing.com/profile/Zerk_Shaban2/cv), [Email](zerkshaban@live.com).
-

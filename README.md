@@ -1,4 +1,4 @@
-### Hi Zerk Shaban Here 👋 
+### Hi Zerk Shaban 👋 here!
 
 - 🔭 I’m currently working on [kelisto.es](https://www.kelisto.es/) as Software Engineer (frontend).
 - 🌱 I’m currently learning DevOps.

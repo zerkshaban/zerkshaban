@@ -40,8 +40,8 @@
  ### GitHub Stats:
 
   <img align="left" alt="Zerk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zerkshaban&show_icons=true&theme=dark" />
-  <br>
-<hr>
+<br>
+<br>
 <br>
   <a href="https://github.com/zerkshaban">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerkshaban&theme=dark&hide_langs_below=1" />

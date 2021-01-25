@@ -1,3 +1,16 @@
+<span>
+<a href="https://www.linkedin.com/in/zerk-shaban/">
+  <img align="left" alt="Zerk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/zerkshaban">
+  <img align="left" alt="Zerk's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100038208783085">
+  <img align="left" alt="Zerk's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+</span>
+</br>
+
 ### Hi Zerk Shaban 👋 here!
 
 - 🔭 I’m currently working on [kelisto.es](https://www.kelisto.es/) as Software Engineer (frontend).
@@ -27,3 +40,7 @@
  ### GitHub Stats:
 
   <img align="left" alt="Zerk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zerkshaban&show_icons=true&theme=dark" />
+  
+  <a href="https://github.com/anshul7sh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerkshaban&theme=dark&hide_langs_below=1" />
+</a><br>

@@ -13,7 +13,7 @@
 
 ### Hello👋, I'm Zerk Shaban
 
-- 🔭 I’m currently working on [kelisto.es](https://www.kelisto.es/) as Software Engineer (frontend).
+- 🔭 I’m currently working on [kelisto.es](https://www.kelisto.us/fibra-optica) as Software Engineer (frontend).
 - 🌱 I’m currently learning DevOps.
 - 💬 Ask me about React, Next, Redux, JavaScript, and TypeScript.
 - 👨🏻‍🎓 Pursuing MSc. Advanced Computer Sciences from University of Hertfordshire.

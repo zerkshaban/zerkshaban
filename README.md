@@ -1,5 +1,5 @@
 <span>
-<a href="https://www.linkedin.com/in/zerk-shaban/">.  
+<a href="https://www.linkedin.com/in/zerk-shaban/">
   <img align="left" alt="Zerk's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/zerkshaban">

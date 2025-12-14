@@ -13,7 +13,7 @@
 
 ### Hello👋, I'm Zerk Shaban
 
-- 🔭 I’m currently working on [MyUtilityGenius Limited](https://www.myutilitygenius.co.uk/) as Software Engineer (frontend).
+- 🔭 I’m currently working on [MyUtilityGenius Limited](https://www.myutilitygenius.co.uk/) as Senior Software Engineer (frontend).
 - 🌱 I’m currently learning DevOps, VueJS, and Vuex.
 - 💬 Ask me about React, Next, Redux, JavaScript, and TypeScript.
 - 👨🏻‍🎓 Holds MSc. Advanced Computer Sciences from [University of Hertfordshire](https://www.herts.ac.uk/).
